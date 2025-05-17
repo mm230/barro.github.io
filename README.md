@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 This is my personal portfolio website hosted on GitHub Pages. It showcases my skills, projects, and provides information about me as a developer.
@@ -36,3 +37,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Background image from [PNGTree](https://pngtree.com/)
 - Icons from [Font Awesome](https://fontawesome.com/)
+=======
+# barro.github.io
+>>>>>>> c6a5a8ac27fa3b530bc486b0e29657b41cfe0d86
